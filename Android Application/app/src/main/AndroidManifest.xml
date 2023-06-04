@@ -1,0 +1,203 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.leafdetectionapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LeafDetectionApp">
+
+        <activity
+            android:name=".TipsActivitygarlic"
+            android:label="@string/garlic"
+            android:parentActivityName=".ActivityCultivation"/>
+        <activity
+            android:name=".TipsActivity12"
+            android:label="@string/tomato"
+            android:parentActivityName=".ActivityCultivation"/>
+        <activity
+            android:name=".TipsActivity8"
+            android:parentActivityName=".ActivityCultivation"
+            />
+        <activity
+            android:name=".TipsActivity7"
+            android:label="@string/potato"
+            android:parentActivityName=".ActivityCultivation"/>
+        <activity
+            android:name=".TipsActivity6"
+            android:label="@string/ginger"
+            android:parentActivityName=".ActivityCultivation"/>
+        <activity
+            android:name=".TipsActivity5"
+            android:parentActivityName=".ActivityCultivation"/>
+        <activity
+            android:name=".Tipsactivity4"
+            android:label="@string/chilli"
+            android:parentActivityName=".ActivityCultivation"/>
+        <activity
+            android:name=".TipsActivity3"
+            android:label="@string/soyabin"
+            android:parentActivityName=".ActivityCultivation"/>
+        <activity
+            android:name=".TipsActivity2"
+            android:label="@string/bajra"
+            android:parentActivityName=".ActivityCultivation" />
+        <activity
+            android:name=".TipsActivity11"
+            android:label="@string/blackberry"
+            android:parentActivityName=".ActivityCultivation"/>
+        <activity
+            android:name=".TipsActivity10"
+            android:label="@string/apple"
+            android:parentActivityName=".ActivityCultivation"/>
+        <activity
+            android:name=".MainActivity2"
+            android:label="Wheat"
+            android:parentActivityName=".ActivityCultivation" />
+        <activity
+            android:name=".AmmoniumFertilizerActivity"
+            android:label="Ammonium Sulphate Fertilizer"
+            android:parentActivityName=".ActivityFertilizer"/>
+        <activity
+            android:name=".NitroFertilizerActivity"
+            android:label="Nitro Phosphate Fertilizer"
+            android:parentActivityName=".ActivityFertilizer" />
+        <activity
+            android:name=".MopFertilizerActivity"
+            android:label="MOP Fertilizer(Potash)"
+            android:parentActivityName=".ActivityFertilizer" />
+        <activity
+            android:name=".SspFertilizerActivity"
+            android:label="SSP Fertilizer"
+            android:parentActivityName=".ActivityFertilizer" />
+        <activity
+            android:name=".DapFertilizerActivity"
+            android:label="DAP Fertilizer"
+            android:parentActivityName=".ActivityFertilizer" />
+        <activity
+            android:name=".NpkFertilizerActivity"
+            android:label="NPK Fertilizer"
+            android:parentActivityName=".ActivityFertilizer" />
+        <activity
+            android:name=".ActivityNorthernLeafBlight"
+            android:label="Northern Leaf Blight"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityLeafRust"
+            android:label="Leaf Rust"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityGrayLeafSpot"
+            android:label="Gray Leaf Spot"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityCommonRust"
+            android:label="Common Rust"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityBlackRot"
+            android:label="Black Rot"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityBlackMeasles"
+            android:label="Black Measles(Esca)"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityAppleScab"
+            android:label="Apple Scab"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityIsariopsisLeafSpot"
+            android:label="Isariopsis Leaf Spot"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityCitrusGreening"
+            android:label="Citrus greening(Haunglongbing)"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityBacterialSpot"
+            android:label="Bacterial Spot"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityEarlyBlight"
+            android:label="Early Blight"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityLateBlight"
+            android:label="Late Blight"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityLeafScorch"
+            android:label="Leaf Scorch"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityLeafMold"
+            android:label="Leaf Mold"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivitySeptoriaLeafSpot"
+            android:label="Septoria Leaf Spot"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivitySpiderMite"
+            android:label="Two Spotted Spider Mite"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityTargetSpot"
+            android:label="Target Spot"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityYellowCurlVirus"
+            android:label="Yellow Leaf Curl Virus"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityMosaicVirus"
+            android:label="Mosaic Virus"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityPowderyMildew"
+            android:label="Powdery Mildew"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityPredictionUpload"
+            android:label="Disease Detection"
+            android:parentActivityName=".ActivityHome" />
+        <activity
+            android:name=".ActivityPrediction"
+            android:label="Disease Detection"
+            android:parentActivityName=".ActivityHome" />
+        <activity
+            android:name=".ActivityDownyMildew"
+            android:label="Downy Mildew"
+            android:parentActivityName=".ActivityDisease" />
+        <activity
+            android:name=".ActivityDisease"
+            android:label="Common leaf diseases"
+            android:parentActivityName=".ActivityHome" />
+>>>>>>> copy-of-main
+        <activity
+            android:name=".ActivityCultivation"
+            android:label="@string/cultivation"
+            android:parentActivityName=".ActivityHome" />
+        <activity
+            android:name=".ActivityFertilizer"
+            android:label="@string/fertilizer"
+            android:parentActivityName=".ActivityHome" />
+        <activity
+            android:name=".ActivityHome"
+            android:label="Home" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.LeafDetectionApp.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

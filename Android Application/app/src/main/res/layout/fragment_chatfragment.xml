@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".Chatfragment">
+    <ScrollView android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            tools:ignore="HardcodedText">
+
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/wheat1" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            tools:ignore="HardcodedText">
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="371dp"
+                android:layout_height="wrap_content"
+                android:paddingTop="15dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:text="@string/wheat_about"
+                android:textStyle="normal"
+                android:textColor="@color/black"
+                />
+
+        </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>

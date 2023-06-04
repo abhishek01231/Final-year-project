@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Leaf Doctor</string>
+
+    <string name="app_title">Leaf Disease Detection App</string>
+    <string name="choose_lang">Choose Your Language</string>
+    <string name="english_button">ENGLISH</string>
+    <string name="hindi_button">हिंदी</string>
+    <string name="kannada_button">ಕನ್ನಡ</string>
+
+    <string name="pests_disease">Pests and Disease</string>
+    <string name="pests_overview">Check pests affecting different plants</string>
+    <string name="fertilizer">Fertilizer</string>
+    <string name="fertilizer_overview">Check type of fertilizers to add</string>
+    <string name="cultivation">Cultivation Tips</string>
+    <string name="cultivation_overview">Check cultivation tips for different crops</string>
+    <string name="link">Raita Mitra</string>
+    <string name="link_overview">Department of Agriculture(KSDA)</string>
+    <string name="camera">Take a picture</string>
+    <string name="camera_overview">Capture leaf picture to detect disease</string>
+    <string name="upload">Select a picture</string>
+    <string name="upload_overview">Upload leaf picture from your device</string>
+
+    <string name="seeding_stage">During Seedling Stage</string>
+    <string name="vegetative_stage">During Vegetative Stage</string>
+    <string name="flowering_stage">During Flowering Stage</string>
+    <string name="fruiting_stage">During Fruiting Stage</string>
+    <string name="harvesting_stage">During Harvesting Stage</string>
+
+    <string name="tomatoadvise">  ▶To start, plant the tomato seeds indoors in small pots 3 to 4 inch deep or seed starting trays about ¼ inches deep in moderately fertile soil.\n\n
+▶The soil pH ranging from 6.0 to 6.8 is best for tomatoes. Tomatoes will grow in almost any type of garden soil except for heavy clay soil.\n\n
+▶The ideal temperature required for germination of tomatoes seeds ranges between  21 to 27℃ (70 to 80℉). For best germination results, keep the pots in a warm and dark place. The seedlings should appear in 10 to 14 days.\n\n
+▶The secret to growing healthy tomatoes at home is in the soil. Maintaining optimum soil moisture is essential for successful tomato growth.\n\n
+▶Seeds require very little watering till germination. Use a spray bottle to mist the seedlings to keep the top of the soil moist. In case you feel the soil has become too moist, just place the potted plant to an area with increased airflow.
+
+    </string>
+    <string name="tomatoabout"> Tomato, (Solanum lycopersicum), flowering plant of the nightshade family (Solanaceae), cultivated extensively for its edible fruits. Labelled as a vegetable for nutritional purposes, tomatoes are a good source of vitamin C and the phytochemical lycopene. The fruits are commonly eaten raw in salads, served as a cooked vegetable, used as an ingredient of various prepared dishes, and pickled. Additionally, a large percentage of the world’s tomato crop is used for processing; products include canned tomatoes, tomato juice, ketchup, puree, paste, and “sun-dried” tomatoes or dehydrated pulp.\n\n
+    Tomato plants are generally much branched, spreading 60–180 cm (24–72 inches) and somewhat trailing when fruiting, but a few forms are compact and upright. Leaves are more or less hairy, strongly odorous, pinnately compound, and up to 45 cm (18 inches) long. The five-petaled flowers are yellow, 2 cm (0.8 inch) across, pendant, and clustered. Fruits are berries that vary in diameter from 1.5 to 7.5 cm (0.6 to 3 inches) or more. They are usually red, scarlet, or yellow, though green and purple varieties do exist, and they vary in shape from almost spherical to oval and elongate to pear-shaped. Each fruit contains at least two cells of small seeds surrounded by jellylike pulp.
+    </string>
+
+    <string name="potatoabout">Potato, (Solanum tuberosum),
+        annual plant in the nightshade family (Solanaceae),
+        grown for its starchy edible tubers.
+        The potato is native to the Peruvian-Bolivian Andes and is one of the world’s main food crops. Potatoes are frequently served whole or mashed as a cooked vegetable and are also ground into potato flour, used in baking and as a thickener for sauces. The tubers are highly digestible and supply vitamin C, protein, thiamin, and niacin.
+   \n\n
+        The potato is one of some 150 tuber-bearing species of the genus Solanum (a tuber is the swollen end of an underground stem). The compound leaves are spirally arranged; each leaf is 20–30 cm (about 8–12 inches) long and consists of a terminal leaflet and two to four pairs of leaflets. The white, lavender, or purple flowers have five fused petals and yellow stamens. The fruit is a small poisonous berry with numerous seeds.
+    </string>
+    <string name="potatoadvise">•Potatoes grow best in cool, well-drained, loose soil that is about 45° to 55°F (7° to 13°C).\n\n
+•Choose a location that gets full sun—at least 6 hours of sunlight each day.\n\n
+•Grow potatoes in rows spaced about 3 feet apart.\n\n
+•With a hoe or round-point shovel, dig a trench about 6 inches wide and 8 inches deep, tapering the bottom to about 3 inches wide.\n\n
+•Spread and mix in fully-rotted manure or organic compost in the bottom of the trench before planting.\n\n•In each trench, place a seed potato piece (cut side down) every 12 to 14 inches and cover with 3 to 4 inches of soil.\n\n
+•If your garden soil is very rocky, put the seed potato pieces directly on the ground. Sprinkle with a mix of soil and compost. Cover them with straw or leaves, hilling the material up as the potatoes grow.\n\n
+•The best starters are seed potatoes. Do not confuse seed potatoes with potato seeds or grocery produce! Select seed potatoes which have protruding eyes (buds).\n\n
+•Use a clean, sharp paring knife to cut large potatoes into pieces that are roughly the size of a golf ball, making sure that there are at least 2 eyes on each piece. (Potatoes that are smaller than a hen’s egg should be planted whole.)\n\n
+•If you are cutting up potato pieces yourself, do so 1 to 2 days ahead of planting. This will give them the chance to “heal” and form a protective layer over the cut surface, improving both moisture retention and rot resistance.\n\n
+•12 to 16 days after planting, when sprouts appear, use a hoe to gently fill in the trench with another 3 to 4 inches of soil, leaving a few inches of the plants exposed. Repeat in several weeks, leaving the soil mounded up 4 to 5 inches above ground level \n\n
+•After the potato plants have emerged, add organic mulch between the rows to conserve moisture, help with weed control, and cool the soil.
+    </string>
+
+
+    <string name="apple_about"> ▶As with most fruit, apples produce best when grown in full sun, which means six or more hours of direct summer Sun daily.\n\n
+   ▶ The best exposure for apples is a north side of a house, tree line, or rise rather than the south. this reduces the chance that a few warm, sunny days in midwinter will stimulate new growth that the next freeze will kill.\n\n
+    ▶Apple trees need well-drained soil, but should be able to retain some moisture. Light- to medium-texured soils are best. Fruit trees struggle in heavy clay soil; poorly drained soils leads to root rot disease.\n\n
+   ▶ Plant fruit in a location with good air circulation so leaves dry quickly after a rainfall or irrigation (or the tree risks fungal leaf diseases).\n\n
+    ▶Make sure the tree will not be planted in a “frost pocket” where cold air settles in low-lying areas. Choose a higher site with a slip if possible so that cold air will flow away from the trees.\n\n
+  ▶  Do not plant trees near wooded areas or trees.\n\n
+   ▶ The ideal soil pH is 6.0 to 6.5 but a pH range of 5.5 to 7.0 is acceptqable. Take a soil test prior to planting your apple trees. Your local Cooperative Extension Service can instruct you.\n\n
+    Planting the Tree in the Ground
+
+  \n\n ▶ Before planting, remove all weeds and the grass in a 4-foot diameter circle.\n
+   \n▶ After you purchase the tree, protect it from injury, drying out, freezing, or overheating. If the roots have dried out, soak them in water about 24 hours before planting.
+    Tree spacing is influenced by the rootstock, soil fertility, and pruning. Seedlings or full-size trees should be planted about 15 to 18 feet apart in a row. A dwarfing rootstock might be 4 to 8 feet apart in a row. Of course, apple trees require cross-pollination; a different cultivar that blooms at the same time must be planted within 2,000 feet (preferably, nearer).\n\n
+   ▶Dig a hole approximately twice the diameter of the root system and 2 feet deep. Place some of the loose soil back into the hole and loosen the soil on the walls of the planting hole so the roots can easily penetrate the soil. Spread the tree roots on the loose soil, making sure they are not twisted or crowded in the hole. Continue to replace soil around the roots. As you begin to cover the roots, firm the soil to be sure it surrounds the roots and to remove air pockets.\n\n
+     ▶Do not add fertilizer at planting time, as the roots can be “burned”. Fill the remainder of the hole with the loose soil, and press the soil down well.\n\n
+     ▶Most apple trees are grafted. The graft union must be at least 2 inches above the soil line so that roots do not emerge from the scion. The graft union (where the scion is attached to the rootstock) can be recognized by the swelling at the junction.
+        Dwarf apple trees are notoriously prone to uprooting under the weight of a heavy crop, so you should provide a support system for your hedge. You can grow your trees against a fence, or you can provide free-standing support in the form of a trellis.</string>
+
+
+    <string name="wheat_about">\n  ▶Wheat (Triticum spp.) occupies the prime position among the food crops in the world. In India, it is the second important food crop being next to rice and contributes to the total foodgrain production of the country to the extent of about 25%. Wheat has played a very vital role in stabilizing the foodgrain production in the country over the past few years.
+
+The origin of the durum wheats was probably in the region of Abyssinia, whereas the whole group of soft wheat, which includes the bread wheats, probably originated in the region of Pakistan, SouthWestern and the Southern parts of mountainous Bokhara.
+
+Classification of Indian Wheats:
+1. Emmer Wheat (Triticum dicoccum schub L.) :
+This type was reported to be grown in south i.e. Maharashtra, Tamil Nadu and Karnataka. This type is believed to be developed from T. diccoides koru., a wild form. It is also grown in Spain, Italy, Germany and Russia.
+
+\n\n2. Macroni Wheat ( T.durum Desf.) : The durum or macroni wheat, cultivation in India, is considered to be very old. It is a best wheat for drought conditions or under restricted irrigated conditions of Punjab, M.P., Karnataka, Tamil Nadu, Gujarat, West Bengal and H.P. It is used for semolina (suji) preparation.
+
+\n\n3. Common Bread Wheat ( T. vulgare Host) :
+It is a typical wheat of alluvial soils of Indo-Gangetic plains i.e.Punjab, Uttar Pradesh, Bihar and parts of Rajasthan. The bulk of the Indian crop, therefore, consists of this type.
+
+\n\n4. Indian Dwarf Wheat (T.spherococcum Mihi.) :
+This belongs to the club wheat of western countries. This is found in limited areas of M.P., U.P., of India and in Pakistan. These are characterised by very short and compact heads having a shorter grains.
+
+\n\n5. Triticum aestivum :
+This is the type presently grown in India in almost all the wheat growing zones. It is used mainly for bread purpose.\n</string>
+    <string name="wheat_advise">\n
+Wheat farming or cultivation can be very easily done as compared to many other cereal crops. Here is how you can start with it:
+\n
+1. Choose a good location
+The very important part of wheat farming is selection of an appropriate place.  You must look for a place that has fertile soil for wheat farming. Soil with a loam texture, good structure and moderate water holding capacity are some factors that you must consider to grow wheat.
+\n\n
+2. Soil Preparation
+The soil must be properly prepared before starting the wheat farming. For this you can plough the soil either with disc or mould board plough. Then arrange the soil by giving one deep plough, followed by 2 to 3 light ploughing and planking. Now add natural fertilizers to it. For commercial wheat farming, an average of 50 kg Nitrogen, 25 kg Phosphorus and 12 kg Potash is sufficient in one acre of land. Add more organic contents while preparing the soil.
+\n\n
+3. Weather requirements
+Wheat plants can be grown and planted in a wide range of agro-climatic conditions. The plants have high flexibility and hence can be grown in the tropical, sub-tropical zones and temperate zone. The most suitable climate for wheat farming is moist and cool weather.  The plants can easily survive in temperature between 3.5 °C and 35 °C, but the best temperature for wheat farming is between 21 °C and 26 °C.
+\n\n
+4. Pick a variety
+Wheat is available in many different types and varieties all over the world. Some popular wheat varieties available and cultivated in India are as follows:
+\n
+DBW 17,
+\n
+HD 2851,
+\n
+HD 2932,
+\n
+PBW 1 Zn,
+\n
+Unnat PBW 343,
+\n
+PDW 233,
+\n
+WHD 943,
+\n
+TL 2908, etc
+\n\n
+Make sure you choose the right variety of wheat according to the climatic conditions of your region.
+        You can also consult an experienced farmer in your area to help you choose the right wheat variety.</string>
+<string name="soyabeenadvise">Sow soybeans in spring 2 to 3 weeks after the average
+    last frost date when the soil has warmed to at least 60°F (16°C).\n \n
+    Soybeans grow best where the daytime temperature averages between 60°F and 70°F (16-21°C).
+    Plant soybeans in late winter in warm-winter regions. Soybeans are not frost-tolerant.
+    \n \n Sow soybean seeds 1 to 2 inches (2.5-5cm) deep, 2 to 4 inches (5-1ocm) apart in rows 24 to 30 inches (61-76cm) apart.\n
+    \nThin successful seedlings from 4 to 6 inches (1015cm) apart; cutaway thinned seedlings with scissors at
+    ground level being careful not to disturb the roots of remaining plants.\n \n
+    Do not soak seed before planting and do not overwater
+    immediately after planting; too moist seeds may crack and germinate poorly.
+</string>
+
+    <string name="bajraabout">   \n  ▶ Bajra is popularly known as “pearl millet” and belongs to the family of Gramineae. This grain is basically originated from India or Africa. Bajra is a coarse grain crop and considered to be the poor man’s staple nourishment and suitable to cultivate in drylands.  Major Bajra production states in India are Rajasthan, Maharashtra, Haryana, Uttar Pradesh, and Gujarat. Bajra can also be used as valuable animal fodder. It is one of the major crops of China, India, South-Eastern Asia, Sudan, Pakistan, Arabia, Russia &amp; Nigeria.
+
+Major Bajra production states in India:
+Top Bajra producing state is Rajasthan followed by Maharashtra, Haryana, Gujarat and Uttar Pradesh. The top high yielding state is Tamil Nadu.
+
+ \n\n
+ ▶Health benefits of Bajra or Pearl Millet:
+Some of the health benefits of Bajra are given below.
+
+ \n
+ ▶Bajra is very good source of energy.\n
+ ▶Bajra promotes heart health.\n
+ ▶Bajra helps in reducing weight.\n
+ ▶Bajra helps in digestion disorders.\n
+ ▶Bajra may help in preventing cancer.\n
+ ▶Bajra controls blood sugar levels and hence good for the diabetic.</string>
+
+    <string name="bajradvise"> ▶Sowing time :- Most appropriate time of sowing is middle or last week of July\n
+Seed rate and Spacing:-
+4-5 kg/ha for drilling method\n
+2.5-3 kg/ha for dibbling method
+spacing 40 –45 cm between rows, 10 –15 cm within rows.\n \n
+▶Seed treatment- The organo-mercurial compound Ceresan, Agrosan should be used @ 2.5-3 kg/ha to control seed borne diseases
+
+Generally the crop requires low quantity of nutrients. But All India Co-ordinated Millet Improvement Project has proved that new plant types of bajra especially hybrids respond to very high doses of fertilizers.
+
+\n \n▶Under rainfed areas application of organic manures such as FYM or compost helps in increasing the crop yield at the rate of 150-200 quintals/ha 80 –100 kg N:40-50 kgP:40-50kgK is recommended dose for hybrid variety.
+
+Fertilizers are applied in split doses, half of nitrogen, full phosphorus and potash should be basal placed at the time of sowing . The organic manures must be applied 20 days before the sowing of the seeds for full decomposition.\n \n▶ One fourth dose of nitrogen should be applied about 30 days and 60 days after sowing.
+\n \n
+▶Interculture
+Thinning or gap filling is followed at the time of first interculture. Hand weeding is followed to control the weeds or application of Atrazine @ 0.5 kg/ha would take care of most of the weeds.
+\n \n
+▶Irrigation:
+Bajra is grown rainfed and crop being drought resistant hardly needs any irrigation, however it is observed that the yield may be significantly increased by irrigating the crop at critical growth stages like maximum tillering, flowering and grain filling stage. Therefore light irrigations and efficient drainage is very essential for bajra production.</string>
+    <string name="soyabeenabout">Initially, soybeans develop a main taproot, but soon after
+    emergence numerous lateral roots branch off to produce a fibrous root system. \n \n
+    Young soybean roots develop root nodules within a week after emergence. Rhizobium,
+    a nitrogen-fixing bacterium enters the nodules and after ten to fourteen days
+    are able to supply most of the plant’s nitrogen needs.
+\n \n
+Regarding flower development, there is two main types soybeans can be classified: determinate and indeterminate. Indeterminate soybeans continue growing upward at the tip of the stem for several weeks after flowering begins lower on the stem. Upper nodes will not flower until later. Most commercial varieties are indeterminate. Indeterminate soybeans usually grow taller and do well in short growing seasons. Determinate soybean plants complete their growth in height and then produce all the flowers at about the same time and usually one-half to two-thirds as tall as indeterminate varieties.</string>
+    <string name="chilliabout">▶Chilli shrubs are perennial and short-lived.
+        They can grow up to 1.5 m in height. Their stems are woody at the base, fleshy and either erect or semi-prostrate. The shrub consists of a main tap root with many lateral roots.
+        The leaves can grow up to 12 cm long and 7.5 cm wide and are unequal in shape with a pointed tip.\n \n▶Chilli flowers occur singly or in small groups of two to three flowers.
+        \n \n▶They are small and bisexual with have five to six petals each. Flowers of Capsicum annuum are white-green, while those of Capsicum frutescens are yellow or white-green.8 The chilli fruit is hollow with many seeds.
+        \n \n▶They are found in different colours like green, orange, white, yellow and red.9 Pungency varies in different varieties. Red chillies get their colour from a colouring compound called capsanthin and have a hot, pungent taste due to a chemical called capsaicin.
+        The numerous small chilli seeds also contain capsaicin.\n\n
+
+▶Usage and potential
+Food: Chillies are used fresh or dried, whole or powdered in cooking to give food its characteristic hot, spicy and pungent taste. Chillies are pickled in salt, eaten raw in salads, made into sauces or stored in brine. A liquid chilli extract is used in colouring food as well as animal feed. Chillies are a good source of Vitamin C.
+        They also contain vitamins B1 and B2, beta carotene, protein, calcium and phosphorous.11
+
+    </string>
+
+
+    <string name="chilliadvice">
+        Chillies need moisture for growth. It has been found that black soil which retains moisture is ideal in case they are grown as rainfed crops. Under irrigated conditions, the crop needs well-drained sandy loam with rich organic content. They can also be grown in deltaic soil under irrigated conditions. In hilly areas like Uttarakhand, soil is mixed with gravel and coarse sand before undertaking chilli cultivation.
+\n\n
+pH Requirement
+A neutral soil pH between 6.5 and 7.5 is well-suited for chilli cultivation. It cannot tolerate acidic nor alkaline soil.
+\n\n
+Season for Chilli Farming
+Chillies can be cultivated both as Kharif and Rabi crop. In addition they are also planted at other times.
+        Sowing months are May to June for Kharif crop, September to October for Rabi crops. \n
+        If they are planted as summer crops then January-February months are chosen.
+\n\n
+Water for Green Chilli Cultivation
+Green Chilli Crop
+Green Chilli Crop
+Chillies are crops that cannot withstand a lot of water. Heavy rainfall and stagnated water would result in rotting of the plants. In case of irrigated crops, watering should be only when it is necessary. A frequent watering would result in shedding of flowers and a spurt of vegetative growth. The amount of water to be irrigated, the number of irrigations and its frequency highly depends on the climatic conditions and the soil type. If the leaves start drooping during day time it is an indication of water requirement. Similarly, if the flowers seem weak or exhibit not enough vigor, irrigating the crop would help. Some farmers irrigate the field
+        once the soil moisture content drops below 25%.
+    </string>
+    <string name="garlicabout">Garlic is a plant in the Allium (onion) family.
+
+It is closely related to onions, shallots and leeks. Each segment of a garlic bulb is called a clove. There are about 10–20 cloves in a single bulb, give or take.\n\n
+
+Garlic grows in many parts of the world and is a popular ingredient in cooking due to its strong smell and delicious taste.
+
+However, throughout ancient history, the main use of garlic was for its health and medicinal properties (1Trusted Source).
+
+Its use was well documented by many major civilizations, including the Egyptians, Babylonians, Greeks, Romans and Chinese (2Trusted Source).\n\n
+
+Scientists now know that most of its health benefits are caused by sulfur compounds formed when a garlic clove is chopped, crushed or chewed.
+
+Perhaps the most famous of those is known as allicin. However, allicin is an unstable compound that is only briefly present in fresh garlic after it’s been cut or crushed (3Trusted Source).
+
+Other compounds that may play a role in garlic’s health benefits include diallyl disulfide and s-allyl cysteine (4Trusted Source).
+
+The sulfur compounds from garlic enter the body from the digestive tract and travel all over the body, where it exerts its potent biological effects..</string>
+
+
+    <string name="garlicadvice">
+    Time of planting and method of sowing \n\n
+
+Garlic is planted as single clove but bulbils are also used occasionally. In hilly area, this crop is planted in March-April whereas in plains; it is planted from September to October.
+
+\n
+The quantity of planting material required per unit area depends on clove size and number of cloves per bulb. A distance of 15 to 20 cm (row to row) and 8 to 10 cm (plant to plant) is recommended.
+
+\n\n
+Manuring and fertilizer requirement
+
+Garlic responds very well to organic manure, application of 16-20 tonnes/acre at the time of field preparation is recommended. Application of N:P:K @ 75:85:55 kg produces higher yield. At the time of planting, half of nitrogen along with full dose of P and K should be used, the remaining half of nitrogen be applied 30-45 days after planting.
+
+        \n\n
+
+Irrigation and inter-culture
+
+Garlic crop needs irrigation once in a week during vegetative growth and at 10-15 days interval near maturation. Garlic is a closely planted crop which requires 3-5 manual hoeing for higher yield.
+
+\n\n
+Harvesting
+The crop is ready for harvest when the tops turn brownish and show signs of drying up and bend over. The bulbs mature in 4-6 months after plantation depending upon the climate.</string>
+    <string name="gingerabout">
+        Ginger is a plant with leafy stems and yellowish green flowers. The ginger spice comes from the roots of the plant. Ginger is native to warmer parts of Asia, such as China, Japan, and India, but now is grown in parts of South American and Africa.\n It is also now grown in the Middle East to use as medicine and with food.
+
+Ginger is commonly used for many types of nausea and vomiting.
+        \n\nIt is also used for menstrual cramps, osteoarthritis, diabetes, migraine headaches, and other conditions, but there is no good scientific evidence to support many of these uses.
+\n\n
+In foods and beverages, ginger is used as a flavoring agent.
+
+In manufacturing, ginger is used as for fragrance in soaps and cosmetics.
+
+\n\nOne of the chemicals in ginger is also used as an ingredient in laxative, anti-gas, and antacid medications.
+
+    </string>
+    <string name="gingeradvice">
+▶Preparation of land starts with the receipt of early summer showers. The land is to be ploughed 4 to 5 times or dug thoroughly to bring the soil to fine tilth. \n\n▶Weeds, stubbles, roots etc. are removed. Beds of about one metre width, 15-cm height and of any convenient length are prepared at an interspace of 40-50 cm in between beds. In the case of irrigated crops, ridges are formed 40 cm apart.\n\n
+
+▶Planting
+Ginger is always propagated by portions of the rhizomes, known as seed rhizomes. Carefully preserved seed rhizomes are cut into small pieces of 2.5 – 5.0 cm length weighing 20-25 g, each having one or two good buds.\n\n▶ The seed rate varies from 1500 to 1800 kg per ha from region to region. The seed rhizomes are treated with 0.3 % Dithane M 45 for 30 min, drained and planted at a spacing of 20-25 cm along the rows and 20-25 cm between the rows.\n\n
+
+▶Manures and fertilisers
+At the time of planting, well decomposed cattle manure or compost at the rate of 25-30 tonnes per ha along with 2 tonnes of neem cake is to be applied along with 50 kg P2O5 and 25 kg K2O. \n\n▶They may be applied either by broadcast over the beds prior to planting or applied in pits at the time of planting. Besides, 75kg of Nitrogen /ha is recommended which is to be applied in two equal split doses at 40 and 90 days after planting. \n\n▶The plants are to be earthed up, after each top dressing with the fertilizers and beds rectified.
+    </string>
+    <string name="ck">
+        The apple is a hardy, deciduous woody perennial tree that grows in all temperate zones. Apples grow best where there is cold in winter, moderate summer temperatures, and medium to high humidity.\n\n
+
+There are apples for fresh eating, some for cooking, and some for preserving. Some apples are sweet and some are tart. Some apples come to harvest in summer, some in autumn.\n\n
+
+Apples can grow from 10 to 30 feet tall and nearly as wide. They are moderately fast-growing, but growth slows with age. Apple trees can live for 100 years or more.
+
+
+
+
+Apple trees bloom in the spring, set fruit, and take from 100 to 200 days to reach harvest depending upon the variety.
+    </string>
+    <string name="blackberry_about1">
+       ▶ Blackberry is a perennial shrub grown for its aggregate black fruit.\n\n
+
+▶Blackberry may also be referred to as Bramble and the shrubs grow native on every continent except Australia and Antarctica.\n\n
+
+▶Major Blackberry growing countries in the world are Europe, North America, Central America, South America, Asia and Africa.\n\n
+
+▶Major Blackberry producing state in India is Uttarakhand.
+    </string>
+
+
+    <string name="blackberry_advise1">
+   ▶ Select a site that receives full sun for the best berry yields.\n\n
+ ▶Soil needs to be fertile with good drainage. Add organic content to enrich your soil. (Learn more about soil amendments and preparing soil for planting.\n\n
+ ▶Make sure you plant your blackberries far away from wild blackberries, which may carry (plant) diseases that could weaken your own plants.\n\n
+HOW TO PLANT BLACKBERRIES\n
+ ▶For semi-erect cultivars, space plants 5 to 6 feet apart. Space erect cultivars 3 feet apart. Space trailing varieties 5 to 8 feet apart. Space rows about 8 feet apart.
+Plant shallowly: about one inch deeper than they were grown in the nursery.\n\n
+
+        HOW TO HARVEST BLACKBERRIES\n
+▶Pick only berries that are fully black. Mature berries are plump yet firm, a deep black color, and pull freely from the plant without a yank. Berries do no ripen after being picked.\n\n
+▶Once blackberries start to ripen, they must be picked often—every couple of days.\n\n
+▶When picking, keep the central plug within the fruit (unlike raspberries).\n\n
+▶Harvest during the cooler parts of the day. Once picked, place berries in the shade and refrigerate as soon as possible
+</string>
+    <string name="wheat">Wheat</string>
+    <string name="click_here">Click here</string>
+    <string name="bajra">Bajra</string>
+    <string name="soyabin">Soyabean</string>
+    <string name="chilli">Chilli</string>
+    <string name="garlic">Garlic</string>
+    <string name="ginger">Ginger</string>
+    <string name="potato">Potato</string>
+    <string name="blackberry">Blackberry</string>
+    <string name="apple">Apple</string>
+    <string name="tomato">Tomato</string>
+    <string name="overview">Overview</string>
+    <string name="tips">Tips</string>
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="fragment_bottom_sheet">See Details</string>
+    <string name="detect_disease">Detect Disease</string>
+
+    <string name="disease_found_in">Disease can be found in</string>
+    <string name="downy_mildew_infected">Bean, Bitter Gourd, Cabbage, Cauliflower, Chickpea and Gram, Onion, Ornamental, Pea, Pigeonpea, and Red Gram, Sorghum</string>
+    <string name="check_symptoms">Check if these symptoms appear on your crop</string>
+    <string name="downy_mildew_symptoms">▶ Yellowish spots on leaves - later brown dead patches.\n\n▶ White to gray cottony coat on the underside of the leaf.\n\n▶ Stunted growth\n\n▶ Defoliation\n\n▶ Young shoots, flowers and fruits die off.</string>
+    <string name="biological_treatment">Biological Treatment</string>
+    <string name="downy_mildew_biological_treatment">Commercial biological treatments for fighting downy mildew are available. In mild cases, it is often better not to do anything and wait until the weather improves. In some cases, organic pre-infection fungicides can help to avoid contamination of plants. These include copper-based fungicides, such as Bordeaux mixture.</string>
+    <string name="chemical_treatment">Chemical Treatment</string>
+    <string name="downy_mildew_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments if available. Protectant fungicides can help to prevent the contamination of plants but they have to be sprayed properly to the underside of leaves. Fungicides of the family of the dithiocarbamates can be used. Post-infection fungicide must be applied immediately after the detection of the first symptoms. Commonly used post-infection fungicides include fosetyl-aluminum, azoxystrobin and phenylamides (ex. metalaxyl-M).</string>
+    <string name="downy_mildew_prevention">▶ Choose resistant varieties, if available.\n\n▶ Keep plant dry, for example through proper ventilation.\n\n▶ Make sure soils are well-drained.\n\n▶ Ensure a balanced fertilization for plant vigor.\n\n▶ Provide good spacing between plants.\n\n▶ Plant in sites well exposed to the sun and choose right orientation.\n\n▶ Control weeds in and around the field.\n\n▶ Remove plant residues from the field.\n\n▶ Keep tools and equipment clean.\n\n▶ Avoid distribution of infected soil and plant material.\n\n▶ Fortifiers can be applied to strengthen the health of the plant.\n\n</string>
+    <string name="what_caused_it">What caused it?</string>
+    <string name="downy_mildew_cause">The symptoms are caused by fungi of the group of the Peronosporales and can be very destructive in shaded areas with frequent rainfalls and warm temperatures (15-23°C). These fungi have adapted pretty well to their hosts, meaning that each major crops harbor its own species of fungus. The fungus overwinters in infected plant debris or shoots, in the soil or on alternative hosts (crops and weeds). Wind and rain spread the spores during favorable conditions. The spores germinate and produce structures that enter the leaf through natural pores on the underside of leaves. There it starts to spread through tissues, eventually outgrowing the internal tissues and forming the characteristic mildew coating outside.</string>
+
+    <string name="early_blight_infected">Tomato, Brinjal, Capsicum and Chilli, Potato</string>
+    <string name="early_blight_symptoms">▶ Dark spots with concentric growth and yellow halos on leaves.\n\n▶ Leaves dry out and fall off.\n\n▶ Fruits may start to rot and eventually drop.</string>
+    <string name="early_blight_biological_treatment">Application of products based on Bacillus subtilis or
+copper-based fungicides registered as organic can
+treat this disease.</string>
+    <string name="early_blight_chemical_treatment">Always consider an integrated approach with
+preventive measures together with biological
+treatments, if available.</string>
+    <string name="early_blight_prevention">▶ Use certified pathogen-free seeds or transplants.
+Look for varieties that are resistant to the disease.\n\n▶ Plant or transplant on raised beds to improve drainage.\n\n▶ Orient rows in the direction of main winds and avoid
+shaded areas.\n\n▶ Space plants to allow the canopy to dry quickly after
+rainfall or irrigation.\n\n▶ Lay mulch on the soil to keep plants from touching
+the soil.\n\n▶ Monitor fields for signs of the disease, particularly
+during wet weather.\n\n▶ Remove bottom leaves that are too close to the soil.\n\n▶ Remove leaves displaying symptoms and destroy
+them.\n\n▶ Keep plants strong and vigorous with an adequate
+nutrition.\n\n▶ Use stakes to keep plants upright.\n\n▶ Use a drip irrigation system to minimize leaf
+wetness.\n\n▶ Water plants in the morning so plants dry during the
+day.\n\n▶ Control susceptible weeds in and around the field.\n\n▶ Store tubers at cool temperatures and in well-aerated
+sites\n\n</string>
+    <string name="early_blight_cause">Symptoms are caused by Alternaria solani, a fungus that overwinters on infected crop debris in soil or on
+alternative hosts. Purchased seeds or seedlings may also be already contaminated. Lower leaves often
+get infected when in contact with contaminated soil. Warm temperatures (24-29°C) and high humidity
+(90%) favor development of the disease. A long wet period (or alternating wet/dry weather) enhances
+the production of spores, which may be spread via wind, splashing rain or overhead irrigation. Tubers
+harvested green or in wet conditions are particularly susceptible to an infection. It often strikes after a
+period of heavy rainfall and is particularly destructive in tropical and subtropical areas.</string>
+
+    <string name="late_blight_infected">Tomato, Brinjal, Capsicum and Chilli, Potato</string>
+    <string name="late_blight_symptoms">▶ Brown leaf spots - start from margin.
+\n\n▶ White covering on the underside of leaves.
+\n\n▶ Grey or brown wrinkled stains on fruits.
+\n\n▶ Hardened fruit flesh spots and fruit decay.</string>
+    <string name="late_blight_biological_treatment">To avoid spreading, remove and destroy plants around the infected spot immediately and do not compost infected plant material.</string>
+    <string name="late_blight_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments, if available.</string>
+    <string name="late_blight_prevention">▶ Purchase healthy seeds from reliable retailers.
+\n\n▶ Plant more resilient varieties.
+\n\n▶ Tomatoes and potatoes should not be cultivated next to each other.
+\n\n▶ Try to keep plants dry through good drainage and ventilation of your cultures.
+\n\n▶ Install a simple transparent rain shelter with the help of a tarpaulin and wooden stakes.
+\n\n▶ Use plant fortifier for general strengthening of the plants.
+\n\n▶ Crop rotation of two to three years with non-host crops is recommended.
+\n\n▶ Silicate-containing fertilizers may increase the resistance to the fungus, especially in the seedling stage.
+\n\n▶ Avoid irrigation late in the day and irrigate plants at ground level.
+\n\n▶ Disinfect field equipment and tools.\n</string>
+    <string name="late_blight_cause">The risk of infection is highest in midsummer. The fungus enters the plant via wounds and rips in the skin. Temperature and moisture are the most important environmental factors affecting the development of the disease. Late blight fungi grow best in high relative humidities (around 90%) and in temperature ranges of 18 to 26°C. Warm and dry summer weather can bring the spread of the disease to a halt.</string>
+
+    <string name="leaf_mold_infected">Tomato, Bean, Bitter Gourd, Cabbage, Cauliflower</string>
+    <string name="leaf_mold_symptoms">▶ Pale green or yellowish diffuse spots on upper leaf side.
+\n\n▶ Olive green to grayish purple patches on underside.
+\n\n▶ Drying and curling of leaves.</string>
+    <string name="leaf_mold_biological_treatment">Seed treatment with hot water (25 minutes at 122°F or 50°C) is recommended to avoid the pathogen on seeds. The fungi Acremonium strictum, Dicyma pulvinata, Trichoderma harzianum or T. viride and Trichothecium roseum are antagonistic to M. fulva and could be used to reduce its spread. In greenhouse trials the growth of M. fulva on tomatoes was inhibited by A. strictum, Trichoderma viride strain 3 and T. roseum by 53, 66 and 84% respectively. In small arms, apple-cider, garlic or milk sprays and vinegar mix can be used to treat the mold.</string>
+    <string name="leaf_mold_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments if available. Applications should be made prior to infection when environmental conditions are optimal for the development of the disease. Recommended compounds in field use are chlorothalonil, maneb, mancozeb and copper formulations. For greenhouses, difenoconazole, mandipropamid, cymoxanil, famoxadone and cyprodinil are recommended.</string>
+    <string name="leaf_mold_prevention">▶ Use certified, disease-free seeds, plant resistant or resilient varieties if available in your area.
+    \n\n▶ Plant early to reduce the disease severity.
+    \n\n▶ Adjust row and plant spacing to enhance air circulation and reduce humidity in the canopy.
+    \n\n▶ Monitor for disease and rogue infected plants as soon as detected.
+    \n\n▶ Avoid excessive nitrogen fertilization.
+    \n\n▶ Promote air circulation inside the greenhouse.
+    \n\n▶ Keep the relative humidity below 85% and night temperatures higher than outside temperatures(suitable on greenhouse).
+    \n\n▶ Use drip irrigation and avoid watering foliage.
+    \n\n▶ Use a stake, strings, or prune the plant to keep it upstanding and increase airflow in and around it.
+    \n\n▶ Remove and destroy (burn) all plants debris after the harvest.
+    \n\n▶ Sanitize the greenhouse between crops and maintain extensive hygiene standards with tools and among workers.\n</string>
+    <string name="leaf_mold_cause">The symptoms are caused by the fungus Mycovellosiella fulva, whose spores can survive without a host for 6 months to a year at room temperature (non-obligate). Prolonged leaf moisture and humidities above 85% favor the germination of spores. The temperature must be between 4° to 34 °C for spores to germinate, with an optimum temperature at 24-26°C. Dry conditions and the absence of free water on leaves impair germination. The symptoms usually start to appear 10 days after inoculation with the development of spots on both sides of the leaf blade. On the underside, a large number of spore- producing structures are formed and these spores are easily spread from plant to plant by the wind and water splashing, but also on tools, clothing of workers and insects. The pathogen usually infects the leaves by penetrating through stomata in a high humidity level.</string>
+
+    <string name="yellow_curl_virus_infected">Tomato, Brinjal, Capsicum, Cabbage, Cauliflower</string>
+    <string name="yellow_curl_virus_symptoms">▶ Yellow and curled leaves.
+\n\n▶ Stunted growth.
+\n\n▶ Less number of fruits.</string>
+    <string name="yellow_curl_virus_biological_treatment">There is no treatment against Yellow Leaf Curl Virus. Control the whitefly population to avoid the infection with the virus.</string>
+    <string name="yellow_curl_virus_chemical_treatment">Once infected with the virus, there are no treatments against the infection. Control the whitefly population to avoid the infection with the virus. Insecticides of the family of the pyrethroids used as soil drenches or spray during the seedling stage can reduce the population of whiteflies. However, their extensive use might promote resistance development in whitefly populations.</string>
+    <string name="yellow_curl_virus_prevention">▶ Use resistant or tolerant varieties.
+\n\n▶ Plant early to avoid peak populations of the whitefly.
+\n\n▶ Intercrop with rows of non-susceptible plants such as squash and cucumber.
+\n\n▶ Use nets to cover seedbeds and prevent whiteflies from reaching plants.
+\n\n▶ Practice crop rotation with non-susceptible plants.
+\n\n▶ Avoid planting alternative host plants close to crops.
+\n\n▶ Mulch the seedbed or the field to break the life cycle of the whitefly.
+\n\n▶ Use sticky yellow plastic traps to mass-catch the insect.
+\n\n▶ Monitor the field, handpick diseased plants and bury them away from the field.
+\n\n▶ Find and eradicate weeds in and around the field.
+\n\n▶ Plow deep all plant debris after harvest or burn them.\n</string>
+    <string name="yellow_curl_virus_cause">Yellow Leaf Curl Virus is not seed-borne and is not transmitted mechanically. It is spread by whiteflies of the Bemisia tabaci species. These whiteflies feed on the lower leaf surface of a number of plants and are attracted by young tender plants. The whole infection cycle can take place in about 24 hours and is favored by dry weather with high temperatures.</string>
+
+    <string name="spider_mite_virus_infected">Tomato, Apple, Banana, Bean, Black and Green Gram, Brinjal</string>
+    <string name="spider_mite_virus_symptoms">▶ Tiny spots on leaves.
+\n\n▶ Small webs can be found between stem and leaf.
+\n\n▶ Dried out leaves.
+\n\n▶ Tiny, pale green, oval mites.</string>
+    <string name="spider_mite_virus_biological_treatment">In case of minor infestation, simply wash off the mites and remove the affected leaves. Use preparations based on rapeseed, basil, soybean and neem oils to spray leaves thoroughly and reduce populations of T.urticae. Also try garlic tea, nettle slurry or insecticidal soap solutions to control the population. In fields, employ host-specific biological control with predatory mites (for example Phytoseiulus persimilis) or the biological pesticide Bacillus thuringiensis. A second spray treatment application 2 to 3 days after the initial treatment is necessary.</string>
+    <string name="spider_mite_virus_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments, if available.</string>
+    <string name="spider_mite_virus_prevention">▶ Plant resistant varieties if available.
+\n\n▶ Monitor your field regularly and check the underside of leaves.
+\n\n▶ Alternatively, shake a few insects off the leaf surface onto a white sheet of paper.
+\n\n▶ Remove affected leaves or plants.
+\n\n▶ Remove nettles and other weeds from fields.
+\n\n▶ Apply water to pathways and other dusty areas at regular intervals to avoid dusty conditions in the field.
+\n\n▶ Water your crop regularly as stressed trees and plants are less tolerant to spider mite damage.
+\n\n▶ Control the use of insecticides to allow beneficial insects to thrive.\n</string>
+    <string name="spider_mite_virus_cause">Damage is caused by spider mites from the genus Tetranychus, mainly T. urticae and T. cinnabarinus. The adult female is 0.6 mm long, pale green with two darker patches on its oval body, and long hairs on the back. Overwintering females are reddish. In spring, the females lay globular and translucent eggs on the underside of the leaves. The nymphs are pale green with darker markings on the dorsal side. The mites protect themselves with a cocoon on the underside of the leaf blades. The spider mite thrives in dry and hot climates and will produce up to 7 generations in one year in these conditions. There is a wide range of alternative hosts, including weeds.</string>
+
+    <string name="mosaic_virus_infected">Tomato, Cucumber, Melon, Pumpkin, Zucchini</string>
+    <string name="mosaic_virus_symptoms">▶ Yellow mosaic patterns on leaves and fruits.
+\n\n▶ Downward-bending and crinkling leaves and petioles.
+\n\n▶ Stunted and deformed growth.
+\n\n▶ White streakes on flowers.</string>
+    <string name="mosaic_virus_biological_treatment">Application of mineral oil sprays on leaves can deter aphids from feeding on them and can thereby control the population.</string>
+    <string name="mosaic_virus_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments if available. There are no effective chemicals against Mosaic Virus, nor any that protect plants from becoming infected. Insecticides containing cypermethrin or chlorpyrifos can be used as foliar spray against aphids.</string>
+    <string name="mosaic_virus_prevention">▶ Use virus-free seeds and seedlings from certified source.
+\n\n▶ Plant resistant or tolerant varieties (many available for spinach and cucurbits).
+\n\n▶ Monitor fields and remove plants with signs of the disease.
+\n\n▶ Remove any weeds that show the mosaic pattern.
+\n\n▶ Remove other alternative hosts, growing near your crops.
+\n\n▶ Ensure disinfection of tools or equipment used for vegetative propagation.
+\n\n▶ Attach a floating cover to exclude migrant aphids during the early weeks of crop growth.
+\n\n▶ Remove the cover after this period of greatest vulnerability has passed to ensure pollination.
+\n\n▶ Plant barrier crops that will attract aphids.
+\n\n▶ Use sticky traps to mass-catch the aphids.
+\n\n▶ Cover the ground with an aphid deterrent material like aluminum foil.\n</string>
+    <string name="mosaic_virus_cause">The symptoms are caused by the mosaic virus, which affects a variety of species(cucurbits, spinach, lettuce, capsicum and celery as well as many flowers, especially lilies, delphiniums, primulas and daphnes). The virus can be carried and transmitted by 60-80 different species of aphids. Other ways of transmission include infected seeds and grafts, and mechanical transfer on workers hands or on tools. CMV can overwinter in perennial weeds of flowers, and often also on the crop itself, in the roots, seeds or flowers. In primary infections, the virus grows systemically within the newly emerged seedling and ends up in the top leaves. Aphids feeding on these plants carry it to other hosts (secondary infection). The virus uses the hosts vascular tissue for long distance transport between different plant organs.</string>
+
+    <string name="septoria_leaf_spot_infected">Tomato, Potato</string>
+    <string name="septoria_leaf_spot_symptoms">▶ Small gray circular spots with dark brown margins on undersides of older leaves.
+\n\n▶ Black dots in their centers.
+\n\n▶ Leaves turn slightly yellow, wither, and fall off.
+\n\n▶ Stems and blossoms can also be affected.</string>
+    <string name="septoria_leaf_spot_biological_treatment">Copper-based fungicides, such as Bordeaux mixture, copper hydroxide, copper sulfate, or copper oxychloride sulfate might help control the pathogen. Apply at 7 to 10 day intervals throughout the late season. Follow harvest restrictions listed on the pesticide label.</string>
+    <string name="septoria_leaf_spot_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments, if available.</string>
+    <string name="septoria_leaf_spot_prevention">▶ Acquire certified disease-free seeds.
+\n\n▶ If available, use resistant varieties.
+\n\n▶ Apply organic or plastic mulch to avoid transmission from soil.
+\n\n▶ Remove infected leaves and destroy them.
+\n\n▶ Improve air circulation and keep plants off the ground with stakes.
+\n\n▶ Make sure that production areas are free of susceptible weeds.
+\n\n▶ Do not use sprinklers or other overhead irrigation.
+\n\n▶ Keep your equipment and tools clean after field work.
+\n\n▶ Dig plant debris deep in the soil after harvest.
+\n\n▶ Alternatively, remove and destroy them.
+\n\n▶ Plan a crop rotation for several years with non-susceptible plants.\n</string>
+    <string name="septoria_leaf_spot_cause">Septoria leaf spot occurs worldwide and is caused by the fungus Septoria lycopersici. The fungus infects only plants of the family of potato and tomato. The temperature range for the development of the fungus varies between 15° and 27°C, with optimal growth at 25°C. Spores might be spread by overhead water, splashing rain, hands and clothing of pickers, insects such as beetles, and cultivation equipment. It overwinters on solanaceous weeds and for short periods in soils or soil debris.</string>
+
+    <string name="bacterial_spot_infected">Tomato, Pepper Bell, Peach</string>
+    <string name="bacterial_spot_symptoms">▶ Small dark spots with a yellow halo on leaves and fruits.
+\n\n▶ Stem and flower stalk also affected.</string>
+    <string name="bacterial_spot_biological_treatment">Bacterial Spot is very difficult to control and also expensive to treat. If the disease occurs early in the season, consider destroying the entire crop. Copper-containing bactericides provide a protective cover on foliage and fruit for both bacteria. Bacterial viruses (bacteriophages) that specifically kill the bacteria are available for the bacterial spot. Submerging seeds for one minute in 1.3% sodium hypochlorite or in hot water (50°C) for 25 minutes can reduce the incidence of both diseases.</string>
+    <string name="bacterial_spot_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments, if available.</string>
+    <string name="bacterial_spot_prevention">▶ Plant disease-free seeds if possible from a certified source.
+\n\n▶ Use resistant varieties if available locally.
+\n\n▶ Inspect field regularly, particularly during overcast weather.
+\n\n▶ Avoid injuring transplants during handling or planting.
+\n\n▶ Ensure sufficient space between plants and use stakes to keep them upright.
+\n\n▶ Remove and burn any seedling or plant part with leaf spots.
+\n\n▶ Remove weeds in and around the field.
+\n\n▶ Mulch the soil to avoid soil-to-plant contamination.
+\n\n▶ Clean tools and equipment.
+\n\n▶ Avoid overhead irrigation and working in fields when foliage is wet.
+\n\n▶ Plough deep plant debris after harvest.
+\n\n▶ Alternatively, remove plant debris and leave the soil idle for some weeks or a month (solarization).
+\n\n▶ Plan a 2-3 year crop rotation with a non-susceptible crop.\n</string>
+    <string name="bacterial_spot_cause">Bacterial Spot is caused by several species of bacteria of the genus Xanthomonas, and Pseudomonas syringae pv. tomato. Bacterial spot occurs worldwide and is one of the most devastating diseases on tomatoes grown in warm, moist environments. The pathogens can survive in or on seeds, plant debris, and specific weeds. Xanthomonas has a limited survival period of days to weeks in the soil. Secondary infection can occur through rain or overhead irrigation. It enters the plant tissues through leaf pores and wounds. Optimal temperatures range from 25 to 30°C for the bacterial spot. Once the crop is infected, the disease is very difficult to control and can lead to total crop losses. Bacterial speck outbreaks are relatively infrequent and are favored by prolonged leaf moisture and cool temperatures.</string>
+
+    <string name="powdery_mildew_infected">Apple, Bean, Bitter Gourd, Black and Green Gram, Brinjal, Cabbage, Cassava, Cherry, Chickpea and Gram, Citrus, Cotton, Cucumber, Lentil, Maize, Melon, Okra, Onion, Ornamental, Pea, Peach, Peanut, Pear, Pigeonpea and Red Gram, Potato, Pumpkin, Sorghum, Sugarcane, Tomato, Zucchini</string>
+    <string name="powdery_mildew_symptoms">▶ Whitish spots on leaves, stems and sometimes fruits.
+\n\n▶ White covering on the upper side or underside of the leaves.
+\n\n▶ Stunted growth.
+\n\n▶ Leaves shrivel and fall off.</string>
+    <string name="powdery_mildew_biological_treatment">Foliar sprays based on sulfur, neem oil, kaolin or ascorbic acid can prevent severe infection.</string>
+    <string name="powdery_mildew_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments if available. In view of the number of crops that are susceptible to powdery mildew, it is difficult to recommend any particular chemical treatment. Fungicides based on wettable sulphur (3 g/l), hexaconazole, myclobutanil (all 2 ml/l) seem to control the growth of the fungus in some crops.</string>
+    <string name="powdery_mildew_prevention">▶ Use resistant or tolerant varieties.
+\n\n▶ Plant crops with sufficient spacing to allow for good ventilation.
+\n\n▶ Monitor fields regularly to assess the incidence of a disease or pest.
+\n\n▶ Remove infected leaves when the first spots appear.
+\n\n▶ Do not touch healthy plants after touching infected plants.
+\n\n▶ A thick layer of mulch can prevent the dispersal of spores from the soil up onto the leaves.
+\n\n▶ Practice crop rotation with non-susceptible crops.
+\n\n▶ Fertilize with a balanced nutrient supply.
+\n\n▶ Avoid extreme temperature changes.
+\n\n▶ Plow the soil thoroughly after harvest to dig plant residues deep into the soil.
+\n\n▶ Remove plant residues after harvest.\n</string>
+    <string name="powdery_mildew_cause">Fungal spores overwinter inside leaf buds and other plant debris. Wind, water, and insects transmit the spores to nearby plants. Even though it is a fungus, powdery mildew can develop rather normally in dry conditions. It survives at temperatures between 10-12°C, but optimal conditions are found at 30°C. In contrast to downy mildew, small amounts of rainfall and regular morning dew accelerate the spreading of powdery mildew.</string>
+
+    <string name="citrus_greening_infected">Lemon, Orange</string>
+    <string name="citrus_greening_symptoms">▶ Blotchy mottling of leaves.
+\n\n▶ Yellowing of veins.
+\n\n▶ Stunted tree growth.
+\n\n▶ Premature defoliation.
+\n\n▶ Greening and stunting of the fruit.</string>
+    <string name="citrus_greening_biological_treatment">A common treatment for the citrus greening is spraying whole orchards with antibiotics, which is a risky procedure that could allow drug-resistant bacteria to emerge and spread.</string>
+    <string name="citrus_greening_chemical_treatment">Always consider an integrated approach with preventive measures and biological treatments if available. An appropriate use of insecticides has resulted in good control of the psyllid vectors and thus a limited spread of the disease. Injection of the antibiotic tetracycline into the trunk of the trees may result in a partial recovery but has to be repeated often to show effect. Tetracycline is phytotoxic and may have adverse effects on the environment. For these reasons, its use has decreased in recent years.</string>
+    <string name="citrus_greening_prevention">▶ Monitor the citrus groove regularly for symptoms of the disease.
+\n\n▶ Remove affected trees immediately.
+\n\n▶ Maintain a thorough standard of hygiene among
+\n\n▶ workers and tools involved in citrus growing.
+\n\n▶ Remove alternative hosts of the psyllids such as Murraya paniculata, Severinia buxifolia, and other plants in the same family as citrus (Rutaceae).\n</string>
+    <string name="citrus_greening_cause">The symptoms of huanglongbing (HLB) are caused by the bacterium Candidatus Liberibacter asiaticus. It is transmitted persistently by two psyllid vectors that are omnipresent in the citrus grooves, Diaphorina citri and Trioza erytreae. HLB can be acquired by both nymphs and adults, which can maintain and transmit the disease throughout their 3- to 4-month lifespan. Huanglongbing is systemic and has an incubation period of three months to several years before symptoms are visible. The disease can also be spread through grafting, even though with variable transmission rates. Seed transmission may also be possible. Other pathologies or disorders also show such a mottling of the leaves. It is thus recommended to send samples of tissues for analysis in laboratories to ascertain the cause.</string>
+
+    <string name="apple_scab_infected">Apple</string>
+    <string name="apple_scab_symptoms">▶ Small, olive-green or brown spots on leaves.
+\n\n▶ Later form large brown patches.
+\n\n▶ Leaf deformation and premature fall off.
+\n\n▶ Dark brown, raised, hard areas on fruits.
+\n\n▶ Distortion and cracking of fruits.</string>
+    <string name="apple_scab_biological_treatment">If disease levels were high the previous season, liquid copper fungicides can be sprayed to impede the fungal growth on the tree during the winter season. Sulfur sprays are only partially effective against apple scab. However, solutions containing sulfur and pyrethrins are available for organic control of the disease during the growing season.</string>
+    <string name="apple_scab_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments, if available.</string>
+    <string name="apple_scab_prevention">▶ Use tolerant or resistant varieties.
+\n\n▶ Monitor orchards for signs of the disease.
+\n\n▶ Pick up affected leaves, shoots and fruits.
+\n\n▶ Rake all the fallen leaves from around your trees after harvest.
+\n\n▶ Alternatively, apply 5% urea to leaves in the autumn to enhance their decomposition and to obstruct the life cycle of the fungus.
+\n\n▶ Excessive leaf litter can also be mowed to speed up the breakdown of tissues.
+\n\n▶ Ensure a pruning method that allow for more air circulation.
+\n\n▶ Water in the evening or early morning hours and avoid overhead irrigation.
+\n\n▶ Avoid getting foliage wet when watering,
+\n\n▶ Apply lime after leaf drop to increase soil pH.
+\n\n▶ Spread a mulch under the trees, keeping it away from the trunk.\n</string>
+    <string name="apple_scab_cause">Apple scab is a disease caused by the fungus Venturia inaequalis. It survives the winter mainly on infected leaves on the ground but also on bud scales or lesions on wood. At the onset of spring, the fungus resumes growth and starts to produce spores, which are later discharged and dispersed over long distances by the wind. These spores land on developing leaves and fruits and start a new infection. Outer parts of unopened fruit buds are highly susceptible to scab. However, as the fruit matures it becomes much less susceptible. Humid environment, wetting period of leaves or fruits are essential for the infection. Alternative hosts include shrubs of the genus Cotoneaster, Pyracantha and Sorbus. All apple varieties are susceptible to scab, with Gala being more vulnerable.</string>
+
+    <string name="northern_blight_infected">Corn Maize,Sorghum</string>
+    <string name="northern_blight_symptoms">▶ Symptoms occur first on the lower leaves, with long narrow tan lesions parallel to leaf margins with dark margins 25-150mm long.
+\n\n▶ The disease causes the leaves to dry out, wither and die.</string>
+    <string name="northern_blight_biological_treatment">Bio-fungicides based on Trichoderma harzianum, or Bacillus subtilis can be applied at different stages to decrease the risk of infection. Application of sulfur solutions is also effective.</string>
+    <string name="northern_blight_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments, if available.</string>
+    <string name="northern_blight_prevention">▶ Grow resistant or tolerant varieties.
+\n\n▶ Ensure balanced nutrient supply and avoid excessive nitrogen fertilization.
+\n\n▶ Weed regularly in and around the field.
+\n\n▶ Rotate with soybeans, beans, or sunflower to avoid extensive spreading.
+\n\n▶ Plow deep to bury plant debris and reduce the amount inoculum in the soil.\n</string>
+    <string name="northern_blight_cause">The fungus overwinters in the soil or on plant debris. Rainfall, night dew, high humidity and moderate temperatures favor the dispersion of the the fungus. Carried by wind or rain splashes it first spreads from the soil onto the lower leaves of young maize plants. Rainy conditions and poor field practices favor its spread to other plants and within fields. Optimal temperatures for infection are in the range of 18 to 27°C during the growing season. A prolonged period of 6 to 18 hours of leaf wetness are also necessary. Sorghum is another favorite host of the fungus.</string>
+
+    <string name="esca_infected">Grapes</string>
+    <string name="esca_symptoms">▶ Striping on foliage, later necrotic drying and premature leaf dropping.
+\n\n▶ Small, round, dark spots on berries, resulting in cracks.
+\n\n▶ Concentric rings in cross-sectional cuts of wood.</string>
+    <string name="esca_biological_treatment">Soak dormant cuttings for 30 mins in hot water at about 50°C. This treatment is not always effective and must therefore be combined with other methods. Some species of Trichoderma have been used to prevent the infection of pruning wounds, basal ends of propagation material, and graft unions. This treatment has to be carried out within 24 hours of pruning and again 2 weeks after.</string>
+    <string name="esca_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments if available. Chemical strategies to control this disease are difficult, since the traditional wound protectants do not penetrate deep enough in the dormant grapevine cuttings to affect the fungi. Preventive practices are the most effective management approach for all trunk diseases. For example, immediately before grafting, vines can be deeped into specialized waxes containing plant growth regulators or fungicide-impregnated formulations. This encourages graft union callus development while inhibiting fungal contamination.</string>
+    <string name="esca_prevention">▶ Use alternative pruning methods such as delayed pruning or double pruning.
+\n\n▶ Avoid pruning during periods of heavy rainfall when spores are likely to be dispersed.
+\n\n▶ Monitor the vineyard in Spring, and look for dead spurs or for stunted shoots.
+\n\n▶ Later in summer, cut off cankered portions of the vine.
+\n\n▶ Remove diseased debris from the vineyard and destroy them.
+\n\n▶ Delay fruiting for several years until vines have balanced root and shoot growth.\n</string>
+    <string name="esca_cause">The symptoms are mainly caused by the fungus Togninia minima but other fungi can also be involved for example Phaeomoniella chlamydospora). The infection actually occurs in younger vines but the symptoms may first become apparent in vineyards after 5-7 years. The fungi survive the winter in overwintering structures embedded in the woody parts of the vines. During fall to spring rainfall, spores are produced and released and may infect wounds done during dormant pruning. Wounds may remain susceptible to infection for several weeks after pruning. After a pruning wound is infected, the pathogen establishes a permanent, localized wood infection, which cannot be eradicated by fungicide applications.</string>
+
+    <string name="black_rot_infected">Apple, Grape</string>
+    <string name="black_rot_symptoms">▶ Leaf spot wit dark margin.
+\n\n▶ Shoots, stems and leaf stalks are also affected.
+\n\n▶ Black fruit rot.</string>
+    <string name="black_rot_biological_treatment">Immediately after blooming stage you can spray Bacillus thuringiensis.</string>
+    <string name="black_rot_chemical_treatment">Chemical applications are done in a preventive manner. Start spraying roughly two weeks before bloom with captan+mycobutanil or mancozeb + mycobutanil. Just before the blossoms open you can also use carbaryl or imidcloprid. Post-bloom spray mancozeb + mycobutanil, imidacloprid or azadirachtin. Ten days after bloom you can also apply a mixture of captan and sulfur on your vines. Because most grape varieties become resistant to the infection three to four weeks after bloom, chemical sprays should be avoided at that time.</string>
+    <string name="black_rot_prevention">▶ Choose a more resistant variety if available.
+\n\n▶ Remove fruit mummies from the vine.
+\n\n▶ Infested wood and twines should be removed and destroyed after harvest.
+\n\n▶ Consequently remove infested leaves from the vineyard.
+\n\n▶ Keep your vineyard clear of weeds.
+\n\n▶ Provide proper air circulation and lighting.
+\n\n▶ Prune your vines every year before the vegetative stage.\n</string>
+    <string name="black_rot_cause">The damage is caused by the fungus Phyllosticta ampelicida. The pathogen overwinters in infested shoots or fruit mummies on the grapevine or the soil. The spores will be ejected by light rainfall and then dispersed via wind. Optimal growth conditions are met at 25°C and 6 hours of constant leaf wetness. The fungus prefers warm and humid weather. Reduced fruit yield.</string>
+
+    <string name="common_rust_infected">Millet, Sorghum</string>
+    <string name="common_rust_symptoms">▶ Lesions begin as flecks on leaves that develop into small tan spots.
+\n\n▶ Found on both upper and lower leaf surfaces.
+\n\n▶ Pustules turn dark brown to black late in the season.</string>
+    <string name="common_rust_biological_treatment">No biological treatment is available as of now. Apply chemical treatment if this disease is found.</string>
+    <string name="common_rust_chemical_treatment">The disease is caused by the fungus Puccinia sorghi. The fungus overwinters in an alternate host (a species of Oxalis) and releases spores during the spring. The spores can be transported over great distances by winds and rain. They start the infection process when landing on the leaves. Secondary infection from plant to plant can also occur due to wind and rain. The development of the disease is favored by high relative humidities (nearly 100%), dew, rain and cool temperatures between 15 and 200C (may vary depending on area). Hot, dry weather will in turn slow or hinder the development of the fungus and the incidence of the disease. It is more a problem in plants used for seed production and sweet corn. Plants cultivated as livestock feed, for industrial products, or to make processed foods are not concerned. Yield is reduced due to lower plant productivity and lodging.</string>
+    <string name="common_rust_prevention">▶ Plant resistant varieties available locally.
+\n\n▶ Plant early to avoid optimal conditions for infection.
+\n\n▶ Use shorter season varieties that mature earlier.
+\n\n▶ Monitor your crop regularly for signs of the disease, even more so during overcast weather.
+\n\n▶ Ensure balanced fertilization with split applications of nitrogen.
+\n\n▶ Plan a crop rotation with non-susceptible crops.\n</string>
+    <string name="common_rust_cause">The disease is caused by the fungus Puccinia sorghi. The fungus overwinters in an alternate host (a species of Oxalis) and releases spores during the spring. The spores can be transported over great distances by winds and rain. They start the infection process when landing on the leaves. Secondary infection from plant to plant can also occur due to wind and rain. The development of the disease is favored by high relative humidities (nearly 100%), dew, rain and cool temperatures between 15 and 20°C (may vary depending on area). Hot, dry weather will in turn slow or hinder the development of the fungus and the incidence of the disease. It is more a problem in plants used for seed production and sweet corn. Plants cultivated as livestock feed, for industrial products, or to make processed foods are not concerned. Yield is reduced due to lower plant productivity and lodging.</string>
+
+    <string name="gray_leaf_spot_infected">Maize</string>
+    <string name="gray_leaf_spot_symptoms">▶ Small, pinpoint lesions surrounded by yellow halos.
+\n\n▶ Lesions coalesce and blighting of the whole leaf may result.</string>
+    <string name="gray_leaf_spot_biological_treatment">No biological control is available to control this disease.</string>
+    <string name="gray_leaf_spot_chemical_treatment">Always consider an integrated approach with preventive measures and biological treatments if available. Foliar fungicide treatment is a way to manage the disease if it occurs at early stages but it has to be weighted against the weather conditions, the potential yield loss and the susceptibility of the plant. Fungicides containing pyraclostrobin and strobilurin, or combinations of azoxystrobin and propiconazole, prothioconazole and trifloxystrobin work well to control the fungus.</string>
+    <string name="gray_leaf_spot_prevention">▶ Plant resistant varieties if available in your area.
+\n\n▶ Plant late to avoid adverse conditions for plants.
+\n\n▶ Keep up good ventilation by widening the space between plants.
+\n\n▶ Plow deep and bury all plant residues after harvest.
+\n\n▶ Plan long-term crop rotations with non-host plants.\n</string>
+    <string name="gray_leaf_spot_cause">The gray leaf spot disease is caused by the fungus Cercospora zeae-maydis. It survives in plant residues in the soil for long periods of time. During the spring, the spores are carried onto the lower leaves by rain splashes and wind. Its lifecycle is favored by elevated temperatures (25 to 30°C), high humidity (dews, fogs) and leaf wetness for prolonged periods of time. Hot, dry weather hinders its development. Symptoms vary slightly between different plant varieties. The fungus completes its lifecycle (from infection to production of new spores) in 14-21 days ina susceptible variety and in 21-28 days in a resistant one.</string>
+
+    <string name="leaf_scorch_infected">Strawberry, Grapes</string>
+    <string name="leaf_scorch_symptoms">▶ Spots on leaves with yellow margins.
+\n\n▶ Premature defoliation.</string>
+    <string name="leaf_scorch_biological_treatment">No biological treatments are available against this disease. The best way to avoid heavy losses is to remove severely infected twigs or entire plants and destroy them by deep-burying or burning in distance to the orchard. Good weeding and sanitation programs are also recommended.</string>
+    <string name="leaf_scorch_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments if available. The disease can be controlled by applying fungicides containing mancozeb before rainy weather. Applications should begin at early shoot growth, and protection should be maintained through fruit set, even more so during rainy weather.</string>
+    <string name="leaf_scorch_prevention">▶ Only obtain planting material from certified sources.
+\n\n▶ Ensure sufficient space between vines.
+\n\n▶ Implement measures that increase air circulation between plants, for example through pruning.
+\n\n▶ Monitor the vineyard regularly for symptoms of the disease.\n</string>
+    <string name="leaf_scorch_cause">The fungus P tetraspora, which causes leaf scorch survives the winter in infected leaves on the vineyard floor. Therefore, foliage free dormant cuttings do not provide a pathway for these fungi. During wet weather in spring fungal spores are released from these fallen leaves and spread by wind and water splashes to new leaves and flower stems. There is normally only one cycle of infection in spring from the overwintering fungus on the decaying leaves. Occasionally after several consecutive days of constant rainfall, spores may be formed on the dead tissue of infected leaves still attached to the vine. These spores can cause secondary infections any time during the growing season if moist conditions persist. This explains why the disease may seem absent in most years but can be severe in years with prolonged rainy weather.</string>
+
+    <string name="target_spot_infected">Tomato, Potato, Soybean</string>
+    <string name="target_spot_symptoms">▶ Irregular reddish-brown lesions on leaf.
+\n\n▶ Lesions with light green to yellow margins.
+\n\n▶ Larger lesions have light or dark rings.</string>
+    <string name="target_spot_biological_treatment">No biological treatments are available against this disease. The best way to avoid heavy losses is to remove severely infected twigs or entire plants and destroy them by deep-burying or burning in distance to the orchard. Good weeding and sanitation programs are also recommended.</string>
+    <string name="target_spot_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatment if available. The use of fungicides is rarely economically viable. Products containing mixtures of pyraclostrobin, epoxiconazole and fluxapyrod or bixafen, prothioconzole and trifloxystrobin might help to control the fungus.</string>
+    <string name="target_spot_prevention">▶ Use high-yielding varieties to avoid economic damage.
+\n\n▶ Plant earlier and with early maturing varieties to avoid peak infestation.
+\n\n▶ Clear the field thoroughly from plant residues after harvest.
+\n\n▶ Rotate with non host crops and avoid monoculture in same area.\n</string>
+    <string name="target_spot_cause">The fungus Corynespora cassiicola overwinters on crop debris and in the soil. Favorable conditions for the infection are high humidity (>80%) and free moisture on leaves. Dry weather will suppress the development of the disease. The disease is potentially serious on late-maturing varieties or on susceptible varieties in seasons of high rainfall.</string>
+
+    <string name="leaf_rust_infected">Apple</string>
+    <string name="leaf_rust_symptoms">▶ Small orange to brown pustules on leaves.
+\n\n▶ Pustules surrounded by yellow margin.
+\n\n▶ Leaf sheaths can also be affected.</string>
+    <string name="leaf_rust_biological_treatment">No biological treatments are available against this disease. The best way to avoid heavy losses is to remove severely infected twigs or entire plants and destroy them by deep-burying or burning in distance to the orchard. Good weeding and sanitation programs are also recommended.</string>
+    <string name="leaf_rust_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatment if available. Foliar sprays fungicides containing propiconazole or triazole can be applied preventively to avoid the disease. Carefully read the instructions on how to use the product. Respect application times and doses to avoid the development of resistance.</string>
+    <string name="leaf_rust_prevention">▶ Grow stable and resistant varieties if available.
+\n\n▶ Screen fields for volunteer plants and remove them.
+\n\n▶ Ensure low crop density at planting.
+\n\n▶ Plan and implement a healthy crop rotation.
+\n\n▶ Ensure adequate fertilization of nitrogen.
+\n\n▶ Remove and destroy crop debris after harvest.\n</string>
+    <string name="leaf_rust_cause">The disease is caused by the fungus Puccinia triticina, an obligate parasite of plant tissues. It needs living wheat plants or alternative hosts to complete its life cycle. The spores are dispersed by air currents up to hundreds of kilometers from their source. The germination process requires high moisture or a long period of leaf wetness and temperatures between 10 and 30°C (16-22 °C are optimal). In these conditions, the germination of spores can take place within 30 minutes from their first contact with the leaf. High nitrogen fertilization rates are also favorable. The fungus enters the plant through natural openings on the leaves or sheaths. The fungi can complete their life cycle in 7 to 8 days, depending on field conditions. Puccinia triticina has a variety of alternative hosts in the cereal family.</string>
+
+    <string name="isariopsis_leaf_spot_infected">Grapes</string>
+    <string name="isariopsis_leaf_spot_symptoms">▶ Light yellow spots on leaves.
+\n\n▶ Irregular brown flecks in spots centers.
+\n\n▶ Yellowing and wilting of leaves.
+\n\n▶ Defoliation reduces plant Vigor.</string>
+    <string name="isariopsis_leaf_spot_biological_treatment">No biological treatments are available against this disease. The best way to avoid heavy losses is to remove severely infected twigs or entire plants and destroy them by deep-burying or burning in distance to the orchard. Good weeding and sanitation programs are also recommended.</string>
+    <string name="isariopsis_leaf_spot_chemical_treatment">Always consider an integrated approach with preventive measures together with biological treatments if available. Angular leaf spot can be controlled with the application of conventional fungicides in a timely manner Repeated application of fungicides early in the season are the most effective way to avoid infection.</string>
+    <string name="isariopsis_leaf_spot_prevention">▶ If available in the area, use more tolerant or resistant vine varieties.
+\n\n▶ Check the vineyard frequently for signs of the disease.
+\n\n▶ Keep vines healthy through a good fertilization program.
+\n\n▶ Avoiding excess late-season fertilizing.
+\n\n▶ Remove nearby wild muscadine vines around vineyards.
+\n\n▶ Prune the canopy cover so that it allows for good aeration of the foliage.
+\n\n▶ Keep field clean of plant residues after harvest.\n</string>
+    <string name="isariopsis_leaf_spot_cause">The symptoms are caused by the fungal plant pathogen Mycosphaerella angulata. It is an important disease of muscadine grapes (Vitis rotundifolia) but can also affect other grapes. The spores are spread by wind and water splashes to other leaves and plants. They enter and infect the plant tissues through the natural pores present on leaves or through wounds. Infected leaves have a poor photosynthesis, which results in leaf loss, vine poor vigor and exposure of the grapes to sun scald. If it takes place before fruit set, the infection can slow or stop berry development before maturity. The pathogen thrives in warm, wet conditions especially earlier during the growing season.</string>
+
+    <string name="npk_fertilizer">NPK Fertilizer</string>
+    <string name="dap_fertilizer">DAP Fertilizer</string>
+    <string name="mop_fertilizer">MOP Fertilizer</string>
+    <string name="ssp_fertilizer">SSP Fertilizer</string>
+    <string name="nitro_phosphate_fertilizer">Nitro Phosphate</string>
+    <string name="ammonium_sulphate_fertilizer">Ammonium Sulphate</string>
+
+    <string name="price">Price per Kg</string>
+    <string name="nutrients_contain">What nutrients does it contain?</string>
+    <string name="how_it_helps">How does it help in crop nutrition?</string>
+    <string name="how_it_benefits">How does it benefit farmers?</string>
+    <string name="crops_used">What are the crops in which farmers could use it?</string>
+
+    <string name="npk_price">₹ 23-26</string>
+    <string name="npk_nutrients_contain">Nitrogen, Phosphorus, Potassium</string>
+    <string name="npk_how_it_helps">▶ Contains N, P and K in 1:1:1 ratio
+\n\n▶ Supplies 16% each of nitrogen, phosphate and potash
+\n\n▶ Ensures availability of N in two forms. It contains 5% of N in Ammoniacal form and 12% in Urea form
+\n\n▶ Contains 14.5% out of 16% phosphate in water soluble form, which is easily available to crops
+\n\n▶ Contains entire potash in water soluble form</string>
+    <string name="npk_how_it_benefits">▶ Ideal fertiliser for almost all crops as it supplies all 3 major nutrients
+\n\n▶ Ideally suited for vegetable crops</string>
+    <string name="npk_crops_used">Cereals, pulses, oil seed, fruits and vegetable crops</string>
+
+    <string name="dap_price">₹ 22-24</string>
+    <string name="dap_nutrients_contain">Nitrogen and Phosphorus</string>
+    <string name="dap_how_it_helps">▶ Contains 18 % Nitrogen and 46 % Phosphorus
+\n\n▶ DAP contains high water soluble phosphorus that enhances root growth and in turn good crop stand
+\n\n▶ Nitrogen and Phosphorus ratio are best suited for Pulse and Oilseed crops</string>
+    <string name="dap_how_it_benefits">▶ Increases flower number and fruit setting, thereby improves the crop quality and yield
+\n\n▶ Well suited for calcareous and alkaline soils</string>
+    <string name="dap_crops_used">Sugarcane, Cotton, Oilseeds and Pulse crops</string>
+
+    <string name="ssp_price">₹ 7-10</string>
+    <string name="ssp_nutrients_contain">Phosphorus</string>
+    <string name="ssp_how_it_helps">▶ Contains 16% Phosphorus, which is 100% water soluble
+\n\n▶ Promotes vigorous root growth
+\n\n▶ Improves soil texture
+\n\n▶ SSP contains 11% sulphur that increases oil content in oil seed crops
+\n\n▶ Contains 21% Calcium, which increases stiffness of straw and thereby increases pest resistance in the crop
+\n\n▶ Helps in root nodulation on the roots of legume crops
+\n\n▶ Improves the growth of white roots</string>
+    <string name="ssp_how_it_benefits">▶ Increases nutrient use efficiency, hence reduces costs on fertilisers
+\n\n▶ Reduces flower drop and increases fruit setting
+\n\n▶ Increases oil content in oil seed crops, hence higher market price
+\n\n▶ Reduces pest incidence, hence reduces pest control costs
+\n\n▶ Improves crop quality and yield, hence increases income for the farmers</string>
+    <string name="ssp_crops_used">Sugarcane, Cotton, Oilseeds and Pulse crops</string>
+
+    <string name="mop_price">₹ 17-20</string>
+    <string name="mop_nutrients_contain">Potassium Chloride</string>
+    <string name="mop_how_it_helps">▶ Contains 60% Potash
+\n\n▶ Easily water soluble form of Potash</string>
+    <string name="mop_how_it_benefits">▶ Can be applied to crop independently, based on soil test
+\n\n▶ Better quality of produce
+\n\n▶ Reduces cost of pest management</string>
+    <string name="mop_crops_used">Cereals, Pulses, Oil seed, Vegetable and Fruit crops</string>
+
+    <string name="nitro_price">₹ 20-22</string>
+    <string name="nitro_nutrients_contain">Nitrogen and Phosphorus</string>
+    <string name="nitro_how_it_helps">▶ Contains Nitrogen in both Nitrate and Ammoniacal forms. Hence, prolonged availability of Nitrogen to the crop
+\n\n▶ High Water Soluble Phosphate helps in faster root development
+\n\n▶ Improves root and shoot development
+\n\n▶ Acidic in nature. Improves pH of soil, especially in alkaline areas</string>
+    <string name="nitro_how_it_benefits">▶ Prilled Fertiliser, hence adulteration impossible
+\n\n▶ Makes crops capable of withstanding/escaping drought
+\n\n▶ Crops remain green for a longer time
+\n\n▶ Higher crop yields and improved quality of crop produce</string>
+    <string name="nitro_crops_used">All cereals, pulses, oil seeds, fruits and vegetable crops</string>
+
+    <string name="ammonium_price">₹ 340-400</string>
+    <string name="ammonium_nutrients_contain">Nitrogen and Sulphur</string>
+    <string name="ammonium_how_it_helps">▶ Ammonium Sulphate is a quick acting acidic fertiliser
+\n\n▶ It contains 20.5 % Nitrogen, most preferred source of nitrogen in Paddy crop
+\n\n▶ There is no loss of Nitrogen through leaching
+\n\n▶ As it is resistant to leaching it is more suitable at the time of planting
+\n\n▶ It contains 23 % Sulphur to take care of the crop\'s Sulphur requirement
+\n\n▶ It helps the crop to utilize Nitrogen efficiently due to the presence of Sulphur</string>
+    <string name="ammonium_how_it_benefits">▶ Suitable for top dressing to other crops
+\n\n▶ Contains 23% Sulphur, which helps in increasing quality and yield of the crop
+\n\n▶ Suitable for saline and alkaline soil</string>
+    <string name="ammonium_crops_used">Sugarcane, Tobacco, Paddy</string>
+</resources>
+
